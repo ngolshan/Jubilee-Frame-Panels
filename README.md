@@ -1,4 +1,4 @@
-# Jubilee-Frame-Panels
+# Jubilee Frame Panels
 A full set of panels for the Jubilee printer frame. 
 
 Primary objectives are to substantially increase frame stiffness, add frame mass, and provide a full lower enclosure for the printer for retaining heat.
