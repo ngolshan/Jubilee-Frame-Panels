@@ -3,7 +3,7 @@ A full set of panels for the Jubilee printer frame.
 
 Primary objectives are to substantially increase frame stiffness, add frame mass, and provide a full lower enclosure for the printer for retaining heat.
 
-The design intent process and material is laser cut 0.125" thick aluminum alloy sheet (5052 H32, 6061-T6, or similar). ACM (Dibond), steel, G-10 composite, or plastic would also be valid choices to meet some or all of the stiffness, mass, and heat retention goals. 5052 H32 aluminum is suggested as the sweet spot of stiffness, mass (higher is better), and cost. 
+The design intent process and material is laser cut 0.125" thick aluminum alloy sheet (5052 H32, 6061-T6, or similar). ACM, steel, G-10 composite, or plastic would also be valid choices to meet some or all of the stiffness, mass, and heat retention goals. 5052 H32 aluminum is suggested as the sweet spot of stiffness, mass (higher is better), and cost. 
 
 As of 25-Dec-2022, the cost from [oshcut](https://www.oshcut.com/) was ~$350 for one set, ~$300/ea for 2 sets, and ~$250/ea for 4 sets, including shipping. Order with a friend! 
 
