@@ -15,8 +15,10 @@ Features/Details:
 
 Front View
 
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/87925089/209504466-0031b640-5172-40a6-959e-c153a26a7cf2.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/87925089/209522431-af144de5-040f-4355-994b-24be7e1e789a.png">
+
 
 Rear View
 
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/87925089/209507176-d2ddba55-5c65-4339-b56a-2adf9db620d0.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/87925089/209522581-af197be4-6abb-4caa-9a6a-f89bd063da6e.png">
+
