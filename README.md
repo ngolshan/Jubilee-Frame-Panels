@@ -7,18 +7,20 @@ The design intent process and material is laser cut 0.125" thick aluminum alloy 
 
 As of 25-Dec-2022, the cost from [oshcut](https://www.oshcut.com/) was ~$350 for one set, ~$300/ea for 2 sets, and ~$250/ea for 4 sets, including shipping. Order with a friend! 
 
-Features/Details:
+**Features/Details:**
 - Access door at the "front" of the printer, under the tool docks (TODO: actually add a door)
 - 50mm square grid of M5 through holes on the back panel, to remain agnostic to a specific electronics setup. Design and print your own mounts. 
 - Three passthroughs in the back panel for... passing stuff through. Bed cables, perhaps.
 - Side panel IEC power input cutout that supports both the default Jubilee BOM part and the Filastruder kit power inlet. 
 
-Front View
 
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/87925089/209522431-af144de5-040f-4355-994b-24be7e1e789a.png">
+**Front View**
+
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/87925089/209743176-3f08478d-fe20-4f14-b34c-815328b393d6.png">
 
 
-Rear View
+
+**Rear View**
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/87925089/209522581-af197be4-6abb-4caa-9a6a-f89bd063da6e.png">
 
